@@ -1,0 +1,11 @@
+D:\Projects\GlobalDateConverter\GlobalDateConverter\bin\Release\net8.0\GlobalDateConverter.deps.json
+D:\Projects\GlobalDateConverter\GlobalDateConverter\bin\Release\net8.0\GlobalDateConverter.dll
+D:\Projects\GlobalDateConverter\GlobalDateConverter\bin\Release\net8.0\GlobalDateConverter.pdb
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\GlobalDateConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\GlobalDateConverter.AssemblyInfoInputs.cache
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\GlobalDateConverter.AssemblyInfo.cs
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\GlobalDateConverter.csproj.CoreCompileInputs.cache
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\GlobalDateConverter.dll
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\refint\GlobalDateConverter.dll
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\GlobalDateConverter.pdb
+D:\Projects\GlobalDateConverter\GlobalDateConverter\obj\Release\net8.0\ref\GlobalDateConverter.dll

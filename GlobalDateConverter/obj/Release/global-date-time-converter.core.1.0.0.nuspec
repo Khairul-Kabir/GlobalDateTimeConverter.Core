@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>global-date-time-converter.core</id>
+    <version>1.0.0</version>
+    <title>GlobalDateTimeConverter.Core</title>
+    <authors>GlobalDateConverter</authors>
+    <description>GlobalDateConverter is a versatile .NET library designed to convert Gregorian dates and times into various languages and calendar systems, making it ideal for global applications. Whether you're developing for a multilingual audience or need to present dates and times in different cultural formats, GlobalDateConverter provides an easy and reliable solution.
+
+Features
+Date Conversion: Convert Gregorian dates to localized date formats using different languages and calendars.
+Time Conversion: Convert times to localized formats, including proper numeral translation.
+Wide Culture Support: Supports a vast range of cultures, including but not limited to English, Spanish, French, German, Arabic, Hindi, Bengali, Chinese, Japanese, and more.
+Calendar Specifics: Handles calendar-specific details such as month names and day formatting.
+Easy Integration: Simple API for quick integration into any .NET project.
+
+Installation
+You can install the package via NuGet Package Manager Console:
+
+Install-Package GlobalDateConverter
+
+Or via .NET CLI:
+dotnet add package GlobalDateConverter
+
+Supported Cultures
+en-US: English (United States)
+en-GB: English (United Kingdom)
+es-ES: Spanish (Spain)
+fr-FR: French (France)
+de-DE: German (Germany)
+it-IT: Italian (Italy)
+pt-PT: Portuguese (Portugal)
+pt-BR: Portuguese (Brazil)
+zh-CN: Chinese (Simplified, China)
+zh-TW: Chinese (Traditional, Taiwan)
+ja-JP: Japanese (Japan)
+ko-KR: Korean (Korea)
+ru-RU: Russian (Russia)
+ar-SA: Arabic (Saudi Arabia)
+hi-IN: Hindi (India)
+bn-BD: Bengali (Bangladesh)
+tr-TR: Turkish (Turkey)
+nl-NL: Dutch (Netherlands)
+sv-SE: Swedish (Sweden)
+da-DK: Danish (Denmark)
+nb-NO: Norwegian (Norway)
+fi-FI: Finnish (Finland)
+el-GR: Greek (Greece)
+he-IL: Hebrew (Israel)
+th-TH: Thai (Thailand)
+vi-VN: Vietnamese (Vietnam)
+id-ID: Indonesian (Indonesia)
+ms-MY: Malay (Malaysia)
+
+For a full list of supported cultures, please refer to the CultureInfo class documentation.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\GlobalDateConverter\GlobalDateConverter\bin\Release\net8.0\GlobalDateConverter.dll" target="lib\net8.0\GlobalDateConverter.dll" />
+  </files>
+</package>
