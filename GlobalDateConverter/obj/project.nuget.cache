@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ilQpGZ84sEDGZ5XkQ9rRKhR+C8dB+wwaxA1/MVCMvpNXxo7e8Nv486OCA4ucwZA9orcQCAhBH+fpNmNxXIRuw==",
+  "dgSpecHash": "Hc16iCjOK2hYpzlLJ8icHx4BXjXNbcuyx9UF7KlHZmXVW7ejtsqGa4hlQvkW28vDAnnh6BRJABJeXBGMgt+4Gg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\GlobalDateConverter\\GlobalDateConverter\\GlobalDateConverter.csproj",
+  "projectFilePath": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\GlobalDateConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

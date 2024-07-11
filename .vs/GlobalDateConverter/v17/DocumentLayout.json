@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\GlobalDateTimeConverter.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACB008E-ABB1-4691-8038-F1BF4AFBBC29}|GlobalDateConverter\\GlobalDateConverter.csproj|d:\\git\\globaldatetimeconverter.core\\globaldateconverter\\dateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACB008E-ABB1-4691-8038-F1BF4AFBBC29}|GlobalDateConverter\\GlobalDateConverter.csproj|solutionrelative:globaldateconverter\\dateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACB008E-ABB1-4691-8038-F1BF4AFBBC29}|GlobalDateConverter\\GlobalDateConverter.csproj|d:\\git\\globaldatetimeconverter.core\\globaldateconverter\\globaldateconverter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1ACB008E-ABB1-4691-8038-F1BF4AFBBC29}|GlobalDateConverter\\GlobalDateConverter.csproj|solutionrelative:globaldateconverter\\globaldateconverter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateConverter.cs",
+              "DocumentMoniker": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\DateConverter.cs",
+              "RelativeDocumentMoniker": "GlobalDateConverter\\DateConverter.cs",
+              "ToolTip": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\DateConverter.cs",
+              "RelativeToolTip": "GlobalDateConverter\\DateConverter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:26:40.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalDateConverter",
+              "DocumentMoniker": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\GlobalDateConverter.csproj",
+              "RelativeDocumentMoniker": "GlobalDateConverter\\GlobalDateConverter.csproj",
+              "ToolTip": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\GlobalDateConverter.csproj",
+              "RelativeToolTip": "GlobalDateConverter\\GlobalDateConverter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T16:18:56.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
