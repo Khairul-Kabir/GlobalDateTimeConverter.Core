@@ -1,0 +1,12 @@
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\bin\Debug\net8.0\GlobalDateConverter.deps.json
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\bin\Debug\net8.0\GlobalDateConverter.dll
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\bin\Debug\net8.0\GlobalDateConverter.pdb
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.AssemblyInfoInputs.cache
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.AssemblyInfo.cs
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.csproj.CoreCompileInputs.cache
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.sourcelink.json
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.dll
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\refint\GlobalDateConverter.dll
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\GlobalDateConverter.pdb
+D:\Git\GlobalDateTimeConverter.Core\GlobalDateConverter\obj\Debug\net8.0\ref\GlobalDateConverter.dll

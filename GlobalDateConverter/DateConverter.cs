@@ -28,6 +28,11 @@ namespace GlobalDateConverter
 
         private static string ConvertToCultureSpecificDigits(int number, CultureInfo culture)
         {
+            if (culture.Name == "hi-IN")
+            {
+                return ConvertToHindiDigits(number);
+            }
+
             string[] nativeDigits = culture.NumberFormat.NativeDigits;
             StringBuilder result = new StringBuilder();
 
@@ -41,6 +46,19 @@ namespace GlobalDateConverter
                 {
                     result.Append(digit);
                 }
+            }
+
+            return result.ToString();
+        }
+
+        private static string ConvertToHindiDigits(int number)
+        {
+            string[] hindiDigits = { "०", "१", "२", "३", "४", "५", "६", "७", "८", "९" };
+            StringBuilder result = new StringBuilder();
+
+            foreach (char digit in number.ToString())
+            {
+                result.Append(hindiDigits[digit - '0']);
             }
 
             return result.ToString();

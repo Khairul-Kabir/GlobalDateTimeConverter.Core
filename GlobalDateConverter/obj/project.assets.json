@@ -11,13 +11,13 @@
     "C:\\Users\\KABIR\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GlobalDateConverter\\GlobalDateConverter\\GlobalDateConverter.csproj",
+      "projectUniqueName": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\GlobalDateConverter.csproj",
       "projectName": "GlobalDateTimeConverter.Core",
-      "projectPath": "D:\\Projects\\GlobalDateConverter\\GlobalDateConverter\\GlobalDateConverter.csproj",
+      "projectPath": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\GlobalDateConverter.csproj",
       "packagesPath": "C:\\Users\\KABIR\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\GlobalDateConverter\\GlobalDateConverter\\obj\\",
+      "outputPath": "D:\\Git\\GlobalDateTimeConverter.Core\\GlobalDateConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KABIR\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,6 +32,11 @@ namespace GlobalDateConverter
 
         private static string ConvertToCultureSpecificDigits(int number, CultureInfo culture)
         {
+            if (culture.Name == "hi-IN")
+            {
+                return ConvertToHindiDigits(number);
+            }
+
             string[] nativeDigits = culture.NumberFormat.NativeDigits;
             StringBuilder result = new StringBuilder();
 
@@ -52,6 +57,11 @@ namespace GlobalDateConverter
 
         private static string ConvertToCultureSpecificDigits(string time, CultureInfo culture)
         {
+            if (culture.Name == "hi-IN")
+            {
+                return ConvertToHindiDigits(time);
+            }
+
             string[] nativeDigits = culture.NumberFormat.NativeDigits;
             StringBuilder result = new StringBuilder();
 
@@ -60,6 +70,39 @@ namespace GlobalDateConverter
                 if (char.IsDigit(character))
                 {
                     result.Append(nativeDigits[character - '0']);
+                }
+                else
+                {
+                    result.Append(character);
+                }
+            }
+
+            return result.ToString();
+        }
+
+        private static string ConvertToHindiDigits(int number)
+        {
+            string[] hindiDigits = { "०", "१", "२", "३", "४", "५", "६", "७", "८", "९" };
+            StringBuilder result = new StringBuilder();
+
+            foreach (char digit in number.ToString())
+            {
+                result.Append(hindiDigits[digit - '0']);
+            }
+
+            return result.ToString();
+        }
+
+        private static string ConvertToHindiDigits(string time)
+        {
+            string[] hindiDigits = { "०", "१", "२", "३", "४", "५", "६", "७", "८", "९" };
+            StringBuilder result = new StringBuilder();
+
+            foreach (char character in time)
+            {
+                if (char.IsDigit(character))
+                {
+                    result.Append(hindiDigits[character - '0']);
                 }
                 else
                 {
